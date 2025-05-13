@@ -36,6 +36,7 @@ Wireless/BT: Intel(R) Dual Band Wireless-AC 8265
 Storage: SSD 240Gb
 SMBIOS: MacBookPro15,2
 Version macOS: Ventura(suporta o Sequoia)
+This EFI got too heavy to do the full upload, read the config.plist to see the kexts used, read the list of SSDT's
 _____________________________________________________________________________________________________________________________
 4:
 Mobo: Positivo Vision R15
