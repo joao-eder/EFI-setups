@@ -35,7 +35,7 @@ Ethernet: Intel Ethernet I219-LM
 Wireless/BT: Intel(R) Dual Band Wireless-AC 8265
 Storage: SSD 240Gb
 SMBIOS: MacBookPro15,2
-Version macOS: Ventura(suporta o Sequoia)
+Version macOS: Ventura(Suport Sequoia)
 _____________________________________________________________________________________________________________________________
 4:
 Mobo: Positivo Vision R15
@@ -45,7 +45,7 @@ iGPU: Radeon iGPU Vega
 Audio Codec: Realtek ALC256 (layout 11)
 Storage: NVMe 256Gb
 SMBIOS: MacBookPro16,3
-Version macOS: Ventura(suporta o Sequoia)
+Version macOS: Ventura(Suport Sequoia)
 _____________________________________________________________________________________________________________________________
 5:
 Mobo: Asus M1502I
@@ -56,6 +56,6 @@ Audio Codec: Realtek ALC256 (layout 11)
 Wireless/BT: BCM94360CS2
 Storage: NVMe 256Gb
 SMBIOS: MacBookPro16,3
-Version macOS: Ventura(suporta o Sequoia)
+Version macOS: Ventura(Suport Sequoia)
 _____________________________________________________________________________________________________________________________
 EFIs are numbered in order with the name of the setups.
